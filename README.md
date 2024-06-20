@@ -24,3 +24,11 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/tamayo2/Shop-ReactJS.git
+
+   cd Shop-ReactJS
+
+   npm install
+
+   npm run dev
+
+
