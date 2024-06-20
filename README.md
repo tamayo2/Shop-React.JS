@@ -18,8 +18,8 @@ Welcome to my E-COMMERCE project built with ReactJS! This project showcases a mo
 
 ## Technologies Used
 
-- **Frontend**: ReactJS, CSS, HTML
-- **Backend**: Node.js, Express
+- **Frontend**: ReactJS, TAILWIND CSS
+- **Backend**: Node.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **Payment Gateway**: Stripe
