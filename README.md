@@ -3,26 +3,18 @@
 
 ## Overview
 
-Welcome to my E-COMMERCE project built with ReactJS! This project showcases a modern and intuitive interface for an online shopping experience, highlighting my skills in frontend development. Below, you can find more details about the features, technologies used, and how to get started with the project.
+Welcome to my E-COMMERCE project built with ReactJS! This project showcases a modern and intuitive interface for an online shopping experience, highlighting my skills in frontend development. This is a static page without dynamic functionalities or use of APIs.
 
 ## Features
 
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **User Authentication**: Secure login and registration functionality.
-- **Product Management**: Dynamic product display with real-time updates.
-- **Shopping Cart**: Add, remove, and update products in the cart with ease.
-- **Order Management**: Seamlessly place and track orders.
-- **Payment Integration**: Integrated with popular payment gateways for smooth transactions.
-- **Search Functionality**: Quickly find products using the search bar.
 - **Categorized Menu**: Easy navigation through different product categories.
+- **Product Display**: Clear and attractive presentation of available products.
 
 ## Technologies Used
 
 - **Frontend**: ReactJS, TAILWIND CSS
 - **Backend**: Node.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
-- **Payment Gateway**: Stripe
 - **Version Control**: Git & GitHub
 
 ## Installation
