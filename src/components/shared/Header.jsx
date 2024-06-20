@@ -30,7 +30,7 @@ const Header = () => {
           Pescados
         </a>
         <a href="#" className="py-2 pr-4">
-          Comidas Frias
+          Comidas
         </a>
         <a href="#" className="py-2 pr-4">
           Sopas

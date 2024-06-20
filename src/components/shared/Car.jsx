@@ -44,7 +44,7 @@ const Card = (props) => {
                 <div className="col-span-4 flex items-center gap-3">
                   <img src="comida.png" className="w-10 h-10 object-cover" />
                   <div>
-                    <h5 className="text-sm">Spaicy seaso...</h5>
+                    <h5 className="text-sm">Comida Favorita</h5>
                     <p className="text-xs text-gray-500">$70.000</p>
                   </div>
                 </div>
@@ -80,7 +80,7 @@ const Card = (props) => {
                 <div className="col-span-4 flex items-center gap-3">
                   <img src="comida.png" className="w-10 h-10 object-cover" />
                   <div>
-                    <h5 className="text-sm">Spaicy seaso...</h5>
+                    <h5 className="text-sm">Comida Favorita</h5>
                     <p className="text-xs text-gray-500">$70.000</p>
                   </div>
                 </div>
@@ -116,7 +116,7 @@ const Card = (props) => {
                 <div className="col-span-4 flex items-center gap-3">
                   <img src="comida.png" className="w-10 h-10 object-cover" />
                   <div>
-                    <h5 className="text-sm">Spaicy seaso...</h5>
+                    <h5 className="text-sm">Comida Favorita</h5>
                     <p className="text-xs text-gray-500">$70.000</p>
                   </div>
                 </div>
@@ -152,7 +152,7 @@ const Card = (props) => {
                 <div className="col-span-4 flex items-center gap-3">
                   <img src="comida.png" className="w-10 h-10 object-cover" />
                   <div>
-                    <h5 className="text-sm">Spaicy seaso...</h5>
+                    <h5 className="text-sm">Comida Favorita</h5>
                     <p className="text-xs text-gray-500">$70.000</p>
                   </div>
                 </div>
